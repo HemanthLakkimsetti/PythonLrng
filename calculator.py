@@ -1,0 +1,11 @@
+num1=int(input("Enter the first number: "))
+num2=int(input("Enter the second number: "))
+operator= input("Enter the operator: ")
+if operator=='+':
+    print(f"The sum is {num1+num2}")
+elif operator=='-':
+    print(f"The difference is {num1-num2}")
+elif operator=='*':
+    print(f"The multiplication is {num1*num2}")
+elif operator=='/':
+    print(f"The division is {num1/num2}")
