@@ -1,6 +1,6 @@
 # A variable to store a message
 message = "PyCharm is ready!"
-number = 10 + 5
+number = 10 + 7
 
 # Print the final output
 print(f"Hello, World! {message}")
