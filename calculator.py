@@ -9,3 +9,5 @@ elif operator=='*':
     print(f"The multiplication is {num1*num2}")
 elif operator=='/':
     print(f"The division is {num1/num2}")
+else:
+    print("Invalid operator")
